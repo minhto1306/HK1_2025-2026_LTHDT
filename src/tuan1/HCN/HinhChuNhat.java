@@ -1,4 +1,4 @@
-package tuan1.HinhChuNhat;
+package tuan1.HCN;
 
 public class HinhChuNhat {
 	private double chieuDai, chieuRong;
